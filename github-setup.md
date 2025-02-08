@@ -1,4 +1,4 @@
-# GitHub Setup
+# GitHub Setup 
 
 You will submit your code by pushing it to GitHub. Many actions on GitHub will require authenticating yourself—proving that you have 
 access to your repositories—and the best way to do that involves an SSH key, a secret key that defines your identity, and an SSH agent,
